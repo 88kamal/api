@@ -1,0 +1,23 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "iPhone 9",
+            "description": "An apple mobile which is nothing like apple",
+            "thumbnail": "https://dummyjson.com/image/i/products/1/thumbnail.jpg"
+        },
+        {
+            "id": 2,
+            "title": "iPhone X",
+            "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+            "thumbnail": "https://dummyjson.com/image/i/products/2/thumbnail.jpg"
+        },
+        {
+            "id": 71,
+            "title": "Women Shoulder Bags",
+            "description": "LouisWill Women Shoulder Bags Long Clutches Cross Body Bags Phone Bags PU Leather Hand Bags Large Capacity Card Holders Zipper Coin Purses Fashion Crossbody Bags for Girls Ladies",
+            
+            "thumbnail": "https://dummyjson.com/image/i/products/71/thumbnail.jpg"
+        }
+    ]
+}

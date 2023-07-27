@@ -3,7 +3,7 @@ const cors = require("cors")
 const app = express()
 app.use(cors());
 
-const port = process.env.PORT || 2000 // loaclhost port and heroku port 
+const port =  2000 // loaclhost port and heroku port 
 
 const apiData = require("./data.json") // api data import 
 
